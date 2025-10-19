@@ -14,3 +14,5 @@
 ## 書面報告
 
 10/07 [半導體電漿電源的演進應用與設計關鍵](https://github.com/IH927/Seminar_I/blob/main/Reports/Seminar_I_Report_1007.pdf)
+
+10/14 [A Study of Efficient GNSS Coordinate Classification Strategies for Epidemic Management](https://github.com/IH927/Seminar_I/blob/main/Reports/Seminar_I_Report_1014.pdf)
