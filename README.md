@@ -10,6 +10,8 @@
 
 10/14 [A Study of Efficient GNSS Coordinate Classification Strategies for Epidemic Management](https://github.com/IH927/Seminar_I/blob/main/Notes/Seminar_I_1014.pdf)
 
+10/21 [綠色科技與光電元件之發展應用](https://github.com/IH927/Seminar_I/blob/main/Notes/Seminar_I_1021.pdf)
+
 
 ## 書面報告
 
