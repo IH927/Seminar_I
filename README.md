@@ -16,6 +16,8 @@
 
 11/18 [台灣的地震觀測](https://github.com/IH927/Seminar_I/blob/main/Notes/Seminar_I_1118.pdf)
 
+12/23 [Ultra Lightweight Dehaze Methods for Robot Vision Using High-Level Synthesis](https://github.com/IH927/Seminar_I/blob/main/Notes/Seminar_I_1223.pdf)
+
 
 ## 書面報告
 
